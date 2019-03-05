@@ -157,6 +157,8 @@ https://api.xxx.xxx/v1/orderDelete
 ---
 
 ### これがREST（だよね？）
+
+---
 @snap
 https://api.xxx.xxx/v1/order
 @snapend
@@ -178,13 +180,22 @@ https://api.xxx.xxx/v1/order
 PUT methodで渡す（更新）
 @snapend
 
+---
+
 @snap
 https://api.xxx.xxx/v1/order
 @snapend
 @snap
 DELETE methodで渡す（削除）
 @snapend
-PATCH
+
+@snap
+https://api.xxx.xxx/v1/order
+@snapend
+@snap
+PATCH methodで渡す（一部更新）
+@snapend
+
 https://qiita.com/mserizawa/items/b833e407d89abd21ee72
 ---
 
