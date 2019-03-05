@@ -175,7 +175,7 @@ https://api.xxx.xxx/v1/order
 @snap
 DELETE methodで渡す（削除）
 @snapend
-
+PATCH
 ---
 
 ### 同じサービスをAWS Azure GCPに立ててみた
