@@ -122,8 +122,58 @@ Googleの各種サービスやYoutube（Google内部）などと連携するREST
 
 
 ### （余談）REST APIって何
+
+---
+
 @snap
 Webシステムを外部から利用するためのプログラムの呼び出し規約(API)の種類の一つで、RESTと呼ばれる設計原則に従って策定されたもの。
+@snapend
+
+---
+
+### やりがち
+@snap
+https://api.xxx.xxx/v1/orderCreate
+@snapend
+@snap
+https://api.xxx.xxx/v1/orderSearch
+@snapend
+@snap
+https://api.xxx.xxx/v1/orderUpdate
+@snapend
+@snap
+https://api.xxx.xxx/v1/orderDelete
+@snapend
+
+---
+
+### これがREST（だよね？）
+@snap
+https://api.xxx.xxx/v1/order
+@snapend
+@snap
+POST methodで渡す（作成）
+@snapend
+
+@snap
+https://api.xxx.xxx/v1/order
+@snapend
+@snap
+GET methodで渡す（検索）
+@snapend
+
+@snap
+https://api.xxx.xxx/v1/order
+@snapend
+@snap
+PUT methodで渡す（更新）
+@snapend
+
+@snap
+https://api.xxx.xxx/v1/order
+@snapend
+@snap
+DELETE methodで渡す（削除）
 @snapend
 
 ---
