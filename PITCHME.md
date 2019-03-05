@@ -23,10 +23,10 @@
 
 
 ### クラウドとは
-クラウド
+* クラウド
 https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
-Paas IaaS
+* Paas IaaS
 https://ec-orange.jp/ec-media/?p=18343
 
 ---
