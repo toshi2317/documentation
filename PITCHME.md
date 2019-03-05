@@ -189,6 +189,16 @@ https://qiita.com/mserizawa/items/b833e407d89abd21ee72
 ---
 
 @snap
+表示画面とかで1つのデータだけ欲しいなら
+@snapend
+@snap
+https://api.xxx.xxx/v1/order/:id
+@snapend
+@snap
+を用意しておく（GETの検索とは別、これもmethodはGET）
+@snapend
+
+@snap
 orderに紐づく情報が欲しいなら
 @snapend
 
