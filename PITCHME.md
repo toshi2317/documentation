@@ -23,10 +23,14 @@
 
 
 ### クラウドとは
+@snap
 * クラウド
+@snapend
 https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
+@snap
 * Paas IaaS
+@snapend
 https://ec-orange.jp/ec-media/?p=18343
 
 ---
