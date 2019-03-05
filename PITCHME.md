@@ -188,6 +188,18 @@ PATCH
 https://qiita.com/mserizawa/items/b833e407d89abd21ee72
 ---
 
+@snap
+orderに紐づく情報が欲しいなら
+@snapend
+
+@snap
+https://api.xxx.xxx/v1/order/:id/invoice
+@snapend
+
+
+
+---
+
 ### 同じサービスをAWS Azure GCPに立ててみた
 
 
