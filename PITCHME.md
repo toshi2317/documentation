@@ -22,7 +22,7 @@
 Toshiharu Tanaka
 @snapend
 @snap
-briswell.inc
+Briswell Ltd
 @snapend
 @snap
 非エンジニアでインフラ好き、TypeScriptとか少し触ってます
