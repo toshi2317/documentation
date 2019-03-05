@@ -1,4 +1,4 @@
-@snap[layout : top-left]
+@snap[top-left]
 ### クラウド入門編
 
 2019年3月15日
