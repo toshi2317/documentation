@@ -141,6 +141,9 @@ Webシステムを外部から利用するためのプログラムの呼び出�
 ---
 
 ### やりがち
+
+---
+
 @snap
 https://api.xxx.xxx/v1/orderCreate
 @snapend
@@ -221,8 +224,21 @@ https://api.xxx.xxx/v1/order/:id/invoice
 
 ---
 
-### 同じサービスをAWS Azure GCPに立ててみた
+### 同じサービスをAWS Azure GCPに立ててみた感想
 
+---
+@snap
+個人的にはAWS最強
+@snapend
+
+@snap
+GCPはSDK入れてコマンドでしか色々できないっぽい、GUIからインスタンスは作れなかった
+上級者向けかも
+@snapend
+
+@snap
+Azureもいいんだけど、portal遅い、基本PaaSなので自由度は低い
+@snapend
 
 ---
 
