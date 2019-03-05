@@ -20,6 +20,8 @@
 
 
 ### クラウドとは
+
+---
 @snap
 クラウド
 @snapend
@@ -33,6 +35,8 @@ https://ec-orange.jp/ec-media/?p=18343
 ---
 
 ### AWS vs Azure vs GCP
+
+---
 @snap
 AWS
 @snapend
@@ -69,7 +73,6 @@ Google Cloud Platform
 
 ---
 
-### AWS vs Azure vs GCP
 @snap
 シェア率
 @snapend
@@ -79,6 +82,8 @@ https://www.itmedia.co.jp/news/articles/1902/13/news078.html
 ---
 
 ### AWSの強み弱み妬み
+
+---
 @snap
 UIがわかりやすい。
 @snapend
@@ -89,6 +94,8 @@ IaS的な使い方もPaaS的な使い方もできるため、一歩間違える�
 ---
 
 ### Azureの強み弱み妬み
+
+---
 @snap
 Microsoftなので
 @snapend
@@ -110,6 +117,8 @@ https://japan.zdnet.com/article/35122428/
 
 
 ### GCPの強み弱み妬み
+
+---
 @snap
 Googleの各種サービスやYoutube（Google内部）などと連携するREST APIが用意されている
 @snapend
@@ -189,6 +198,8 @@ https://qiita.com/mserizawa/items/b833e407d89abd21ee72
 ---
 
 ### ちなみに
+
+---
 @snap
 このプレゼン作成はGitPitchというの使ってます。
 @snapend
