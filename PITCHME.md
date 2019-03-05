@@ -1,4 +1,4 @@
-layout : top-left
+@snap[layout : top-left]
 ### クラウド入門編
 
 2019年3月15日
