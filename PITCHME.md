@@ -17,6 +17,21 @@
 
 
 ---
+@snap
+Toshiharu Tanaka
+@snapend
+@snap
+briswell.inc
+@snapend
+@snap
+非エンジニアでインフラ好き、TypeScriptとか少し触ってます
+@snapend
+@snap
+基本初心者向け講座です、よろしくお願いします。
+@snapend
+
+
+---
 
 
 ### クラウドとは
