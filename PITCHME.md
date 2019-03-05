@@ -39,6 +39,9 @@ AWS
 @snap
 Amazon Web Service
 @snapend
+@snap
+2006年7月に公開
+@snapend
 
 @snap
 Azure
@@ -59,6 +62,14 @@ Google Cloud Platform
 @snap
 2008年4月 Google App Engine がサービス開始
 @snapend
+
+@snap
+※全部Wiki調べ
+@snapend
+
+---
+
+### AWS vs Azure vs GCP
 
 ---
 
@@ -86,12 +97,20 @@ Windows Server/SQL Server 2008
 https://japan.zdnet.com/article/35122428/
 @snapend
 
+@snap
+設定しときゃ勝手にスケールしてくれる
+@snapend
+
 ---
 
 
 ### GCPの強み弱み妬み
 @snap
 Googleの各種サービスやYoutube（Google内部）などと連携するREST APIが用意されている
+@snapend
+
+@snap
+勝手にスケールしてくれる
 @snapend
 
 ---
