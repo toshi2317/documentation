@@ -1,9 +1,9 @@
-@snap[top-left]
+@ul[top-left]
 ### クラウド入門編
 
 2019年3月15日
 
-
+@ulend
 ---
 
 
@@ -24,12 +24,12 @@
 
 ### クラウドとは
 @snap
-* クラウド
+クラウド
 @snapend
 https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
 @snap
-* Paas IaaS
+Paas IaaS
 @snapend
 https://ec-orange.jp/ec-media/?p=18343
 
