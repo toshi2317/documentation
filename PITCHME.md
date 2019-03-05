@@ -176,6 +176,7 @@ https://api.xxx.xxx/v1/order
 DELETE methodで渡す（削除）
 @snapend
 PATCH
+https://qiita.com/mserizawa/items/b833e407d89abd21ee72
 ---
 
 ### 同じサービスをAWS Azure GCPに立ててみた
