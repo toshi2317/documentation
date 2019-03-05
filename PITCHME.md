@@ -8,6 +8,7 @@
 * 自己紹介
 * クラウドとは
 * AWS vs Azure vs GCP
+* REST API
 
 
 ---
