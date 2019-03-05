@@ -70,6 +70,11 @@ Google Cloud Platform
 ---
 
 ### AWS vs Azure vs GCP
+@snap
+シェア率
+@snapend
+
+https://www.itmedia.co.jp/news/articles/1902/13/news078.html
 
 ---
 
