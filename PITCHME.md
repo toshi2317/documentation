@@ -83,7 +83,7 @@ https://www.itmedia.co.jp/news/articles/1902/13/news078.html
 UIがわかりやすい。
 @snapend
 @snap
-IasS的な使い方もPaaS的な使い方もできるため、一歩間違えると難易度の高い構成になって保守性がない。
+IaS的な使い方もPaaS的な使い方もできるため、一歩間違えると難易度の高い構成になって保守性がない。
 @snapend
 
 ---
