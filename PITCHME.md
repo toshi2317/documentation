@@ -122,6 +122,9 @@ Googleの各種サービスやYoutube（Google内部）などと連携するREST
 
 
 ### （余談）REST APIって何
+@snap
+Webシステムを外部から利用するためのプログラムの呼び出し規約(API)の種類の一つで、RESTと呼ばれる設計原則に従って策定されたもの。
+@snapend
 
 ---
 
