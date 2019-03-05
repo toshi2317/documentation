@@ -33,36 +33,66 @@ https://ec-orange.jp/ec-media/?p=18343
 ---
 
 ### AWS vs Azure vs GCP
+@snap
 AWS
+@snapend
+@snap
 Amazon Web Service
+@snapend
 
-Azure 
+@snap
+Azure
+@snapend
+@snap
 Microsoft Azure
+@snapend
+@snap
 2010年1月に世界21ヶ国で正式にサービスを開始
+@snapend
 
+@snap
 GCP
+@snapend
+@snap
 Google Cloud Platform
+@snapend
+@snap
 2008年4月 Google App Engine がサービス開始
+@snapend
 
 ---
 
 ### AWSの強み弱み妬み
+@snap
 UIがわかりやすい。
+@snapend
+@snap
 IasS的な使い方もPaaS的な使い方もできるため、一歩間違えると難易度の高い構成になって保守性がない。
+@snapend
 
 ---
 
 ### Azureの強み弱み妬み
+@snap
 Microsoftなので
+@snapend
+@snap
 Windows Server/SQL Server 2008
+@snapend
+@snap
 これがずるい。
+@snapend
+@snap
 https://japan.zdnet.com/article/35122428/
+@snapend
 
 ---
 
 
 ### GCPの強み弱み妬み
+@snap
 Googleの各種サービスやYoutube（Google内部）などと連携するREST APIが用意されている
+@snapend
 
 ---
 
