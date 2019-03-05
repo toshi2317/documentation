@@ -7,9 +7,9 @@
 
 
 ### 目次
-・自己紹介
-・クラウドとは
-・AWS vs Azure ve GCP
+*自己紹介
+*クラウドとは
+*AWS vs Azure ve GCP
 
 
 ---
