@@ -178,6 +178,8 @@ https://api.xxx.xxx/v1/orderUpdate
 https://api.xxx.xxx/v1/orderDelete
 @snapend
 
+routerとかのソース汚くなるから。
+
 ---
 
 ### これがREST（だよね？）
