@@ -28,7 +28,7 @@ Briswell Ltd
 非エンジニアでインフラ好き、TypeScriptとか少し触ってます
 @snapend
 @snap
-基本初心者向け講座です、よろしくお願いします。
+基本初心者向けです、よろしくお願いします。
 @snapend
 
 
@@ -44,7 +44,7 @@ Briswell Ltd
 https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
 @snap
-PaaS IaaS
+SaaS PaaS IaaS
 @snapend
 https://ec-orange.jp/ec-media/?p=18343
 
@@ -105,6 +105,9 @@ UIがわかりやすい。
 @snapend
 @snap
 IaaS的な使い方もPaaS的な使い方もできるため、一歩間違えると難易度の高い構成になって保守性がない。
+@snapend
+@snap
+EC2インスタンスに対して固定IPを割振れるが、クラウドとしてはアンチパターン
 @snapend
 
 ---
