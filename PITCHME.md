@@ -131,6 +131,9 @@ https://japan.zdnet.com/article/35122428/
 @snap
 設定しときゃ勝手にスケールしてくれる
 @snapend
+@snap
+管理画面が遅い、AWSに比べると安定してない気がする
+@snapend
 
 ---
 
@@ -144,6 +147,10 @@ Googleの各種サービスやYoutube（Google内部）などと連携するREST
 
 @snap
 勝手にスケールしてくれる
+@snapend
+
+@snap
+SDK入れてコマンドとか叩かないといけない、上級者向け
 @snapend
 
 ---
@@ -271,6 +278,25 @@ GCPはSDK入れてコマンドでしか色々できないっぽい、GUIから�
 @snap
 Azureもいいんだけど、portal遅い、基本PaaSなので自由度は低い
 @snapend
+
+---
+
+@snap
+結果、どれも似たようなサービスは用意されているので、どれを使っても良い
+@snapend
+@snap
+後は好みの問題と、料金とか何をしたいかによって考える必要がある
+@snapend
+
+@snap
+どれを使うにしろ、「クラウド」なのでサーバにとらわれない構成にする必要がある
+@snapend
+
+@snap
+サービス跨って構築が簡単にできるような構成が一番望ましい
+@snapend
+
+
 
 ---
 
