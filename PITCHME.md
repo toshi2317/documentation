@@ -170,6 +170,13 @@ Webシステムを外部から利用するためのプログラムの呼び出�
 RESTとRESTful
 @snapend
 
+@snap
+RESTで作られたシステムのことをRESTfulと言う（らしいよ）
+@snapend
+@snap
+結構世の中のサービスで公開しているの多いけど、RESTもどきが多い（らしいよ）
+@snapend
+
 ---
 
 ### （余談）最近僕はシステムをFrontEndとAPIに分けてます（カンペ）
