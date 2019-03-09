@@ -216,7 +216,7 @@ GET methodで渡す（検索）
 @snapend
 
 @snap
-https://api.xxx.xxx/v1/order
+https://api.xxx.xxx/v1/order/:id
 @snapend
 @snap
 PUT methodで渡す（更新）
@@ -231,14 +231,14 @@ https://www.cresc.co.jp/tech/java/Servlet_Tutorial/Att_02.htm
 ---
 
 @snap
-https://api.xxx.xxx/v1/order
+https://api.xxx.xxx/v1/order/:id
 @snapend
 @snap
 DELETE methodで渡す（削除）
 @snapend
 
 @snap
-https://api.xxx.xxx/v1/order
+https://api.xxx.xxx/v1/order/:id
 @snapend
 @snap
 PATCH methodで渡す（一部更新）
@@ -265,7 +265,11 @@ orderに紐づく情報が欲しいなら
 https://api.xxx.xxx/v1/order/:id/invoice
 @snapend
 
+---
 
+@snap
+設計書見る？
+@snapend
 
 ---
 
