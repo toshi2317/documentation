@@ -39,14 +39,61 @@ Briswell Ltd
 
 ---
 @snap
-クラウド
+インターネットなどのネットワーク経由でユーザーにサービスを提供する形態のこと
 @snapend
 https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
 @snap
-SaaS PaaS IaaS
+とはいえ色々あるので、次のような分類に分かれます（一部だけ紹介）
 @snapend
+@snap
 https://ec-orange.jp/ec-media/?p=18343
+@snapend
+
+---
+
+### SaaS
+
+---
+
+@snap
+”Software as a Service”の略で「サース」と呼ばれます。
+@snapend
+@snap
+みんな大好きGmailとか、GitLab Cloudとか、DropBoxとか
+@snapend
+
+
+---
+
+### PaaS
+
+---
+
+@snap
+”Platform as a Service”の略で、読み方は「パース」です。主に、PaaSは企業でのサービス開発に利用されます。
+@snapend
+@snap
+
+@snapend
+@snap
+Azure、GCP（部分的）はここ
+@snapend
+
+---
+
+### IaaS
+---
+
+@snap
+”Infrastructure as a Service”つまり「サービスとしてのインフラ」と訳されるIaaS。読み方は「イァース」「アイアース」です。
+@snapend
+@snap
+PaaSより自由度が高く、ミドルウェアとか自分で設定したりする感じ
+@snapend
+@snap
+AWS EC2はここ
+@snapend
 
 ---
 
