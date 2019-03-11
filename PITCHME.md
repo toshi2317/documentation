@@ -229,10 +229,10 @@ https://api.xxx.xxx/v1/order/:id
 PUT methodで渡す（更新）
 @snapend
 @snap
-https://www.cresc.co.jp/tech/java/Servlet_Tutorial/Att_02.htm
+※KISSの原則によると、本当は複数形が推奨、order → orders（めんどくさいからどっちでもいいかな）
 @snapend
 @snap
-※KISSの原則によると、本当は複数形が推奨、order → orders（めんどくさいからどっちでもいいかな）
+「Keep it short and simple.」（簡潔に単純にしておけ）という原則
 @snapend
 
 ---
