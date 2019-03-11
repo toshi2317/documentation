@@ -287,12 +287,6 @@ https://api.xxx.xxx/v1/order/:id
 @snap
 PUT methodで渡す（更新）
 @snapend
-@snap
-※KISSの原則によると、本当は複数形が推奨、order → orders（めんどくさいからどっちでもいいかな）
-@snapend
-@snap
-「Keep it short and simple.」（簡潔に単純にしておけ）という原則
-@snapend
 
 ---
 
@@ -330,6 +324,18 @@ orderに紐づく情報が欲しいなら
 
 @snap
 https://api.xxx.xxx/v1/order/:id/invoice
+@snapend
+
+---
+
+@snap
+※KISSの原則によると、本当は複数形が推奨、order → orders（めんどくさいからどっちでもいいかな）
+@snapend
+@snap
+「Keep it short and simple.」（簡潔に単純にしておけ）という原則
+@snapend
+@snap
+※詳細はGoogle先生へ
 @snapend
 
 ---
