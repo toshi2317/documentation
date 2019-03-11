@@ -163,6 +163,9 @@ SDK入れてコマンドとか叩かないといけない、上級者向け
 @snap
 Webシステムを外部から利用するためのプログラムの呼び出し規約(API)の種類の一つで、RESTと呼ばれる設計原則に従って策定されたもの。
 @snapend
+@snap
+REpresentational State Transfer
+@snapend
 
 ---
 
