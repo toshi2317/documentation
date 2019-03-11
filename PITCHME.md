@@ -288,8 +288,6 @@ https://api.xxx.xxx/v1/order/:id
 PUT methodで渡す（更新）
 @snapend
 
----
-
 @snap
 https://api.xxx.xxx/v1/order/:id
 @snapend
