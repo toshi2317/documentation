@@ -1,54 +1,29 @@
-### クラウド入門編
+### さて、何をやりましょうか
 
-2019年3月15日
+2019年4月25日
 ---
 
 
 ### 目次
-* 自己紹介
-* クラウドとは
-* AWS vs Azure vs GCP
-* REST API
+* 何をするか
 
 
 ---
 
 
-### 自己紹介
-
-
----
-@snap
-Toshiharu Tanaka
-@snapend
-@snap
-Briswell Ltd
-@snapend
-@snap
-非エンジニアでインフラ好き、TypeScriptとか少し触ってます
-@snapend
-@snap
-基本初心者向けです、よろしくお願いします。
-@snapend
-
-
----
-
-
-### クラウドとは
+### 何を発表するか
 
 ---
 @snap
-インターネットなどのネットワーク経由でユーザーにサービスを提供する形態のこと
+前日まで何を発表するか決まりませんでした。
 @snapend
-https://www.internetacademy.jp/it/server/server-basic/merit-and-demerit-of-cloud.html
 
-@snap
-とはいえ色々あるので、次のような分類に分かれます（一部だけ紹介）
-@snapend
-@snap
-https://ec-orange.jp/ec-media/?p=18343
-@snapend
+やろうかなと思っていたことは
+* AWS（またか、、、となりそうだからな）
+* ドメイン駆動設計（自分がまだまだ）
+* Docker & k8s （自分がまだまだ）
+ということで、やれることがない！！
+
 
 ---
 
